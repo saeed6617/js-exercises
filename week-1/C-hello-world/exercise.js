@@ -1,1 +1,3 @@
-console.log("Hello world");
+var message = "hello world";
+var messageType = typeof message;
+console.log(message);
