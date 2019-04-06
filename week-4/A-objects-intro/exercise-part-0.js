@@ -10,6 +10,6 @@ let laptop = {
   color: "grey",
   size: 14,
   ram: 64,
-  owner: "cpdeYourFuture",
+  owner: "codeYourFuture",
   opertatinSystem: "linux"
 };
